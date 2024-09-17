@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Título del documento</title>
+</head>
+<body>
+    <p align="left">
+        En un lugar de la Mancha, de cuyo nombre no quiero acordarme,
+        no ha mucho tiempo que vivía un hidalgo de los de lanza en
+        astillero, adarga antigua, rocín flaco y galgo corredor. Una
+        olla de algo más vaca que carnero, salpicón las más noches,
+        duelos y quebrantos los sábados, lentejas los viernes, algún
+        palomino de añadidura los domingos, consumían las tres
+        partes de su hacienda.
+    </p>
+    <div align="right">
+        En un lugar de la Mancha, de cuyo nombre no quiero acordarme,
+        no ha mucho tiempo que vivía un hidalgo de los de lanza en
+        astillero, adarga antigua, rocín flaco y galgo corredor. Una
+        olla de algo más vaca que carnero, salpicón las más noches,
+        duelos y quebrantos los sábados, lentejas los viernes, algún
+        palomino de añadidura los domingos, consumían las tres
+        partes de su hacienda.
+    </div>
+    <div align="center">
+        En un lugar de la Mancha, de cuyo nombre no quiero acordarme,
+        no ha mucho tiempo que vivía un hidalgo de los de lanza en
+        astillero, adarga antigua, rocín flaco y galgo corredor. Una
+        olla de algo más vaca que carnero, salpicón las más noches,
+        duelos y quebrantos los sábados, lentejas los viernes, algún
+        palomino de añadidura los domingos, consumían las tres
+        partes de su hacienda.
+    </div>
+    <pre>
+En un lugar de la Mancha,
+de cuyo nombre no quiero acordarme,
+no ha mucho tiempo que vivía un hidalgo
+de los de lanza en astillero, adarga
+antigua, rocín flaco y galgo corredor.
+Una olla de algo más vaca que carnero,
+    </pre>
+    <address>
+        Miguel de Cervantes<br>
+        Calle Shakespeare, 23<br>
+        09876, Madrid<br>
+    </address>
+    <center>
+        <p>
+            En un lugar de la Mancha, de cuyo nombre no quiero acordarme,
+            no ha mucho tiempo que vivía un hidalgo de los de lanza
+            en astillero,
+        </p>
+    </center>
+</body>
+</html>
+
